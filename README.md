@@ -266,18 +266,15 @@ Ready for deployment on Vercel with:
 - Environment variable management
 - Edge functions support
 - Built-in analytics
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![screenshot1](screenshot1.png)
+![Home](screenshot1.png)
 
 ### 📝 Register Page
-![screenshot2](screenshot2.png)
+![Register](screenshot2.png)
 
 ### ⭐ Features
-![screenshot3](screenshot3.png)
-
----
+![Features](screenshot3.png)
 
 **BuildNest is a complete, production-ready SaaS platform with premium UI, real backend logic, AI integration, and enterprise-grade architecture.**
