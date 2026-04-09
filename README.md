@@ -270,13 +270,13 @@ Ready for deployment on Vercel with:
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](screenshot1.png)
+![screenshot1](screenshot1.png)
 
 ### 📝 Register Page
-![Register](screenshot2.png)
+![screenshot2](screenshot2.png)
 
 ### ⭐ Features
-![Features](screenshot3.png)
+![screenshot3](screenshot3.png)
 
 ---
 
